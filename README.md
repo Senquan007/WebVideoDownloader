@@ -1,0 +1,2 @@
+# WebVideoDownloader
+借助于yt-dlp以及danmaku2ass项目,主要针对bilibili以及youtube 下载优化的脚本，免去每次输入参数的繁琐。
