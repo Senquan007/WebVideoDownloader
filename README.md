@@ -59,5 +59,14 @@
 | danmaku2ass | Python库，用于将Bilibili的弹幕XML文件转换为ASS字幕文件。 |
 | Web Video Downloader | 运行程序，打开后可根据提示下载视频。 |
 
+🕹️**实例演示**：
+![image](https://github.com/user-attachments/assets/adb75c8b-cba0-409a-897f-3825a4224f3a)
+![image](https://github.com/user-attachments/assets/db55acb4-e2a7-4d58-b3ae-113e08149652)
+![image](https://github.com/user-attachments/assets/cf823473-6597-4c6b-b738-a6af808126fe)
+![image](https://github.com/user-attachments/assets/dfbfb527-58e5-46ef-9bea-dde493b01dbd)
+
+
+
+_建议使用[Potplayer](https://potplayer.daum.net/)_
 >对于exe文件病毒报错的说明：
 >该exe文件直接由pyinstaller转译得到，报错系正常。
